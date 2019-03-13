@@ -1,3 +1,4 @@
+![alt text](https://raw.githubusercontent.com/The-Next-Generation/NEXT/master/banner.png)
 
 # Welcome to NEXT!
 
